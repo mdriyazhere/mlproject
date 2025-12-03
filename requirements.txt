@@ -4,3 +4,4 @@ seaborn
 matplotlib
 dill
 -e .
+flask
